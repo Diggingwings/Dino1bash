@@ -1,1 +1,1 @@
-# Dino1bash
+# dino-dash
